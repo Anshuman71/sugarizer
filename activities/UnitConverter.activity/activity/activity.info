@@ -1,0 +1,6 @@
+[Activity]
+name = Unit Converter Activity
+activity_version = 1	activity_version = 1
+bundle_id = org.sugarlabs.Trivia	bundle_id = org.sugarlabs.UnitConverter
+exec = sugar-activity-web	exec = sugar-activity-web
+icon = activity-icon	icon = activity-icon
